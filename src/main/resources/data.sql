@@ -1,0 +1,3 @@
+INSERT INTO CASA (NOMBRE) VALUES ('Un nombre');
+INSERT INTO CASA (NOMBRE) VALUES ('Otro nombre');
+INSERT INTO CASA (NOMBRE) VALUES ('Otro nombre más');
